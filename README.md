@@ -6,9 +6,9 @@
 
     - 🔳 It has two buttons:
 
-        ✨ Press r = Pressing r on the keyboard will Clear the calculator, Allowing you to start a fresh calculation.
+            ✨ Press r = Pressing r on the keyboard will Clear the calculator, Allowing you to start a fresh calculation.
 
-        🛑 Press e = Pressing e terminates The program and closes the Terminal.
+            🛑 Press e = Pressing e terminates The program and closes the Terminal.
 
 - ## Demo
 
